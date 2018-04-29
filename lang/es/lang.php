@@ -90,7 +90,7 @@ return [
     'album_description' => 'Componente para obtener un álbum de fotos junto con todas sus fotos.',
     'photo_page_label' => 'Página de foto',
     'photo_page_description' => 'Página usada para mostrar una foto suelta',
-    'thumb_mode_label' => 'Modo dce miniaturas',
+    'thumb_mode_label' => 'Modo de miniaturas',
     'thumb_mode_description' => 'Modo de generación de las miniaturas',
     'thumb_width_label' => 'Ancho de miniatura',
     'thumb_width_description' => 'Ancho de las miniaturas que se generarán',
